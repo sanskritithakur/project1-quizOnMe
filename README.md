@@ -1,2 +1,3 @@
 # project1-quizOnMe
-Neog camp projrct 1
+Neog camp projret 1
+Quiz on myself
